@@ -7,7 +7,7 @@
     "nmon": "nodemon app.js --ignore DB/products.json",
     "nmonPMA": "nodemon clases/ProductManagerAsync.js --ignore DB/products.json"
   },
-  "author": "gabi",
+  "author": "aldy",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.20"
